@@ -42,7 +42,10 @@
     <ClCompile Include="2941.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="소스.cpp">
+    <ClCompile Include="14503.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3190.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
